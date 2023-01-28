@@ -1,3 +1,1 @@
-# React Image Slider Carousel
-
-<img src="./screenshot.png" />
+# React Image Slider
